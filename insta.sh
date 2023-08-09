@@ -1,3 +1,7 @@
+#instagram:@masturamohdshaari
+#instagram:change password @masturamohdshaari
+
+https://github.com/Ha3MrX/InstaBrute.git
 #!/bin/bash
 # FB by: https://www.youtube.com/c/HA-MRX
 # Instagram: @iemprator_ha_mrx
@@ -198,6 +202,11 @@ printf "\e[1;77mTrying pass (%s/%s)\e[0m: %s\n" $countpass $count_pass $pass
 let startline+=$threads
 changeip
 done
+
+sljchdklsflsdfs
+efjewiofjewop
+osapdjao
+
 }
 
 case "$1" in --resume) resume ;; *)
